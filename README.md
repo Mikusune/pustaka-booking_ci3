@@ -11,4 +11,4 @@
 <p align='center'>Universitas Bina Sarana Informatika</p>
 <br>
 <br>
-<h2 align='center'>Terima Kasih😘</h2>
+<h2 align='center'>Terima Kasih</h2>
