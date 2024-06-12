@@ -18,9 +18,16 @@
                 <div class="sidebar-heading">
                 Master Data
                 </div>
+                    
                     <!-- Nav Item - Dashboard -->
                     <li class="nav-item active">
                         <!-- Nav Item - Dashboard -->
+                        <li class="nav-item">
+                                <a href="<?= base_url('buku/kategori'); ?>" class="nav-link pb-0">
+                                <i class="fa fa-fw fa-book"></i>
+                                <span>Kategori Buku</span>
+                            </a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link pb-0" href="<?= base_url('buku'); ?>">
                                 <i class="fa fa-fw fa book"></i>
